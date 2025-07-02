@@ -1,6 +1,6 @@
-# Keylogger
 
-🕵️‍♂️ Keylogger & System Monitor Tool
+
+# 🕵️‍♂️ Keylogger & System Monitor Tool
 > ⚠️ Disclaimer : This tool is for educational and ethical purposes only. Unauthorized monitoring or surveillance is illegal and unethical. Always ensure you have proper authorization before using such tools. 
 
 This Python-based script acts as a multi-functional system monitor , logging keystrokes, clipboard data, screenshots, audio recordings, and basic system information. It's built using various libraries like pynput, PIL, sounddevice, and more.
